@@ -1,6 +1,5 @@
 # JOBS ANALYSIS
-
-![Jobs Analysis](https://github.com/user-attachments/assets/ea96b3d3-ca29-4d51-92ff-85a35e922f35)
+![JOB ANALYSIS](https://github.com/user-attachments/assets/a88f6c7d-14de-4c0c-980a-321c07225d71)
 
 This repository presents a comprehensive analysis of job data extracted from the Naukari website. The project aims to gather over 700 job details using the Python library Selenium, systematically organizing the information for further analysis. It includes data cleaning and exploratory data analysis (EDA) using Pandas and NumPy, while MySQL and MS Excel were utilized for insights, and Power BI was employed for visualization.
 
